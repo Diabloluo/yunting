@@ -12,7 +12,7 @@ HTML_TEMPLATE = """
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sell Put 推荐小工具 📈</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💹</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💹</text></svg>'>
     <style>
         body {{ background-color: #e6f0ff; font-family: Arial, sans-serif; text-align: center; padding: 20px; margin: 0; }}
         h2 {{ color: #0056b3; margin-top: 20px; }}
